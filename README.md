@@ -16,11 +16,17 @@ I am an aspiring back-end developer with a keen interest in building innovative 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </div>
 
+---
+
 ## 📊 Minhas Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavoggomesdev&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavoggomesdev&layout=compact&theme=radical" />
 </div>
 
 ---
+
+## 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
