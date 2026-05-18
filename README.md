@@ -1,4 +1,4 @@
-# 👋Olá, eu sou Gustavo
+# Olá, eu sou Gustavo
 
 ```txt
 Engenharia de Software
@@ -9,7 +9,21 @@ UX/UI + Desenvolvimento Web & Mobile
 
 ---
 
-# 🌌 Sobre mim
+# Tech Stack
+
+##  Linguagens & Tecnologias
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,swift,mysql,js,html,css,flask,git,github,vscode" />
+
+</p>
+
+---
+
+---
+
+# Sobre mim
 
 Sou estudante de Engenharia de Software e apaixonado por tecnologia, automações e desenvolvimento de interfaces modernas.
 
@@ -29,19 +43,7 @@ Também desenvolvo projetos utilizando:
 *  Python
 *  MySQL
 
----
 
-# Tech Stack
-
-##  Linguagens & Tecnologias
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,swift,mysql,js,html,css,flask,git,github,vscode" />
-
-</p>
-
----
 
 #  Estatísticas
 
@@ -93,7 +95,7 @@ Também desenvolvo projetos utilizando:
 
 ---
 
-# ✨Visitantes
+# Visitantes
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=blueviolet&style=for-the-badge"/>
