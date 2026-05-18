@@ -103,13 +103,3 @@ Também desenvolvo projetos utilizando:
 
 ---
 ```
-
-4. Cole todo esse conteúdo.
-
-5. Troque:
-
-* `SEUUSUARIO`
-* `SEUEMAIL`
-* `SEULINKEDIN`
-
-pelas suas informações reais.
