@@ -1,32 +1,113 @@
-# Olá, eu sou Gustavo 👋
+# 👋Olá, eu sou Gustavo
 
-I am an aspiring back-end developer with a keen interest in building innovative and efficient solutions. I am always looking for opportunities to enhance my skills and collaborate on challenging projects.
-
----
-
-## 🚀 Tecnologias & Linguagens
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-</div>
+```txt
+Engenharia de Software
+Desenvolvedor focado em automações, backend e interfaces modernas
+UX/UI + Desenvolvimento Web & Mobile
+ Python • Swift • MySQL • JavaScript
+```
 
 ---
 
-## 📊 Minhas Estatísticas do GitHub
+# 🌌 Sobre mim
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavoggomesdev&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavoggomesdev&layout=compact&theme=radical" />
-</div>
+Sou estudante de Engenharia de Software e apaixonado por tecnologia, automações e desenvolvimento de interfaces modernas.
+
+Atualmente trabalho com:
+
+* 🔹 Desenvolvimento de sistemas
+* 🔹 Automação de processos
+* 🔹 APIs e integrações
+* 🔹 Banco de dados MySQL
+* 🔹 UX/UI Design
+* 🔹 Suporte e infraestrutura de TI
+
+Também desenvolvo projetos utilizando:
+
+* Swift & SwiftUI
+*  HTML, CSS e JavaScript
+*  Python
+*  MySQL
 
 ---
 
-## 📫 Contato
+# Tech Stack
 
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+##  Linguagens & Tecnologias
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,swift,mysql,js,html,css,flask,git,github,vscode" />
+
+</p>
+
+---
+
+#  Estatísticas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+#  Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+#  Conquistas
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SEUUSUARIO&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+# Contato
+
+<p align="center">
+
+<a href="mailto:SEUEMAIL">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/SEULINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+#  Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# ✨Visitantes
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=blueviolet&style=for-the-badge"/>
+</p>
+
+---
+```
+
+4. Cole todo esse conteúdo.
+
+5. Troque:
+
+* `SEUUSUARIO`
+* `SEUEMAIL`
+* `SEULINKEDIN`
+
+pelas suas informações reais.
