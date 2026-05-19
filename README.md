@@ -46,17 +46,19 @@ Também desenvolvo projetos utilizando:
 ---
 
 #  Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gustavoggomesdev&theme=tokyonight&hide_border=true"/>
+</p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavoggomesdev&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=Gustavoggomesdev&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoggomesdev&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 ---
 
 #  Conquistas
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEUUSUARIO&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=gustavoggomesdev&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
 
 ---
