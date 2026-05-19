@@ -65,11 +65,11 @@ Também desenvolvo projetos utilizando:
 
 <p align="center">
 
-<a href="mailto:SEUEMAIL">
+<a href="mailto:gustavoggomes@hotmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/SEULINKEDIN">
+<a href="www.linkedin.com/in/gustavoggomes">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -77,18 +77,9 @@ Também desenvolvo projetos utilizando:
 
 ---
 
-#  Snake Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-# Visitantes
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
