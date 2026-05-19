@@ -50,9 +50,6 @@ Também desenvolvo projetos utilizando:
   <img src="https://streak-stats.demolab.com?user=gustavoggomesdev&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoggomesdev&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 ---
 
 #  Conquistas
